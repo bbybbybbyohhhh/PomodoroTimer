@@ -1,0 +1,18 @@
+# Pomodoro Timer
+
+A simple Python-based Pomodoro Timer to help manage work and break intervals. Customize work duration, short break duration, and long break duration.
+
+## Features
+- Countdown timer for work sessions and breaks
+- Customizable session length
+- Default values for quick use
+
+## Usage
+1. Clone the repository.
+2. Run `PomodoroTimer.py` in your preferred Python environment.
+3. Follow the prompts to set your work and break times.
+
+## Future Enhancements
+- Sound alerts at the end of each session
+- Pause and resume functionality
+- Graphical user interface (GUI)
